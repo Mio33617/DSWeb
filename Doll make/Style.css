@@ -19,3 +19,13 @@ body{
 
 /* Navbar */
 
+.navbar {
+    margin: auto;
+    padding: 25px 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: whitesmoke;
+    font-family: serif;
+}
+
